@@ -1,0 +1,1 @@
+cout<<S.peek()<<endl;
