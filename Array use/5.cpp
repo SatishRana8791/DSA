@@ -7,7 +7,7 @@ int main()
     cout<<"enter the elements :";
     cin>>n;
     int arr[sizeof(n)];
-    int ans=INT_;
+    int ans=INT_MIN;
     for(int i=0;i<n;i++)
     {
        if(ans<arr[i])
